@@ -1,7 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "moltbot-sandbox",
-  "main": "src/index.ts",
+"name": "moltbot-new",  "main": "src/index.ts",
   "compatibility_date": "2025-05-06",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
@@ -45,8 +44,7 @@
     "bindings": [
       {
         "class_name": "Sandbox",
-        "name": "Sandbox",
-      },
+"name": "Sandbox_new",      },
     ],
   },
   "migrations": [
