@@ -44,7 +44,7 @@
     "bindings": [
       {
         "class_name": "Sandbox",
-"name": "Sandbox_new",      },
+"name": "Sandbox",      },
     ],
   },
   "migrations": [
